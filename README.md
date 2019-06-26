@@ -12,7 +12,10 @@
 
 
 ### Build new app
+```bash
 npx create-react-app .
 npm install react-redux
 npm install react-bootstrap bootstrap
 npm install --save react-router-dom
+```
+
