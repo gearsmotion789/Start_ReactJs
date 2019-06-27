@@ -3,6 +3,7 @@
 
 ### React Routing
 - https://facebook.github.io/create-react-app/docs/adding-a-router
+- https://reacttraining.com/react-router/web/guides/quick-start
 
 ### React-Redux
 - https://redux.js.org/introduction/installation
