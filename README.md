@@ -6,6 +6,7 @@
 
 ### React-Redux
 - https://redux.js.org/introduction/installation
+- Tutorial: https://www.youtube.com/watch?v=UZy6MxnudyU&list=PLLDNgndR69WeeHFoEg3-WG-mohPDXqZ2f&index=2
 
 ### React-Boostrap
 - https://react-bootstrap.github.io/getting-started/introduction/
