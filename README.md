@@ -12,6 +12,7 @@
 ### React-Boostrap
 - https://react-bootstrap.github.io/getting-started/introduction/
 
+--------------
 
 ### Build new app
 ```bash
@@ -21,4 +22,18 @@ npm install react-redux
 npm install react-bootstrap bootstrap
 npm install --save react-router-dom
 ```
+
+--------------
+
+### Boostrap Studio (for easy drag & drop UI/UX design)
+- https://bootstrapstudio.io/
+- https://www.youtube.com/channel/UCSYIIy89n_Do4Rbyyqa7FeQ/videos
+
+### Convert html web site (boostrap studio export) into react
+- https://medium.com/@giovaldez/how-to-convert-any-web-page-to-reactjs-9740f1ba15db
+- https://magic.reactjs.net/htmltojsx.htm
+
+
+
+
 
