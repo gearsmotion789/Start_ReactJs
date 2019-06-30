@@ -32,8 +32,10 @@ npm install --save react-router-dom
 ### Convert html web site (boostrap studio export) into react
 - https://medium.com/@giovaldez/how-to-convert-any-web-page-to-reactjs-9740f1ba15db
 - https://magic.reactjs.net/htmltojsx.htm
-
-
+```bash
+# Do this for images
+src={require("./img/interior.jpg")}
+```
 
 
 
